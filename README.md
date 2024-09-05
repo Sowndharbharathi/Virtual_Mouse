@@ -9,3 +9,6 @@ Virtual Mouse is a new technology that helps the users to use the systems withou
 - PyAutoGUI
 - numpy
 
+## Installation
+Clone the repository: git clone https://github.com/Sowndharbharathi/Virtual_Mouse.git
+
